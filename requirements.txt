@@ -1,1 +1,3 @@
-pip install requests pynacl termcolor
+requests
+pynacl
+termcolor

@@ -1,0 +1,22 @@
+# Ignore sensitive account and proxy data
+accounts.txt
+proxies.txt
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+env/
+venv/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+.DS_Store
+
+# Ignore OS-specific files
+Thumbs.db

@@ -62,10 +62,7 @@ pip install requests pynacl termcolor base58
      ```bash
      python3 bot.py 
      ```
-   - 2. Execute the main using Indonesia language:
-     ```bash
-     python3 main.py 
-     ```
+   
 
 4. **Monitor Logs**:
    - Logs will display activity for each account, color-coded for clarity:
